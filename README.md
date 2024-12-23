@@ -1,6 +1,8 @@
 # 2024
 
-SSIS Robotics in the "Over Under" VEX competition 2023-2024. Big changes for Vietnam! The total number of teams representing Vietnam at VEX worlds has doubled - now 3 teams from HS can represent Vietnam. And the general team number for SSIS changed from 76209 to 1599.
+<img src="assets/OverUnder.png" align="right" width="40%">
+
+SSIS Robotics in [this years](https://github.com/vex-ssis/2024) "Over Under" VEX competition 2023-2024. Big changes for Vietnam! The total number of teams representing Vietnam at VEX worlds has doubled - now **3 teams** from HS can represent Vietnam, and still one team at MS. The general team number for SSIS changed from 76209 to 1599.
 
 ## Scrimmage at SSIS 2023/11/11
 
