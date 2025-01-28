@@ -50,3 +50,8 @@ The [big event at SSIS](https://www.robotevents.com/robot-competitions/vex-robot
 ## Available spots at Worlds
 
 For 2023 there were a total of 20 spots for Vietnam in VIQRC and only 2 spots in VRC. In 2024 there are only 8 spots in VIQRC but [4 spots at VRC](https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-VEX-Robotics-Competition-Events). Let's see whats in place for 2025.
+
+|      | VIQRC (ES) | VIQRC (MS) | V5RC (MS) | V5RC (HS) |
+|------|:----------:|:----------:|:---------:|:---------:|
+| 2023 |     14     |      6     |     1     |     1     |
+| 2024 |      3     |      5     |     1     |     3     |
